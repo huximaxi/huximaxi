@@ -1,6 +1,6 @@
 ### Daniel Nemet
 
-I research how humans and AI systems come to trust each other, and I build the instruments that measure it.
+I research how humans and AI systems trust each other, and I build instruments that improve this condition.
 
 Head of Product at [Nym Technologies](https://nym.com) (privacy infrastructure). PhD researcher in digital epistemology at ELTE Budapest: *Trust as a Context Protocol*.
 
